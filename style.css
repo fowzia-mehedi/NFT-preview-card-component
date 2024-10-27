@@ -103,5 +103,10 @@ hr {
     color: #0bffff;
     cursor: pointer;
 }
+@media(max-width:375px) {
+  .container {
+    width: 80%;
+  }
+}
 
 
